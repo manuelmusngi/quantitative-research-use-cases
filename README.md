@@ -14,6 +14,9 @@ Khadim Dia, 2021.
 
 - [Stock Price Prediction Using Convolutional Neural Networks on a Multivariate Timeseries](https://arxiv.org/abs/2001.09769) - Sidra Mehtab, Jaydip Sen, 2020.
 
+-[The Serial Dependence of the Commodity Futures Returns: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536046) - Yufeng Han, Lingfei Kong, 2020.
+
+
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
 
 
