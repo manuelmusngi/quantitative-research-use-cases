@@ -1,4 +1,4 @@
-# quantitative research
+# quantitative research initiatives
 
 ## academic research papers: synthesis and induction
 
