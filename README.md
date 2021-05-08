@@ -1,8 +1,7 @@
-# quant_res
+# quantitative research
 
-## Academic Research Papers
+## academic research papers: synthesis and induction
 
-#### Synthesis and Induction
 - [A Meta-Learning approach to Model Uncertainty in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814938) - Miquel Noguer i Alonso, Gilberto Batres-Estrada, Ghozlane Yahiaoui, 2021.
 
 - [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) - Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021.
