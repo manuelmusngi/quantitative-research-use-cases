@@ -1,5 +1,5 @@
 # quantitative research initiatives
-A select aggregation of academic research papers for Quantitative Research Initiatives for machine learning development and reference.
+A select aggregation of academic research papers for quantitative research initiatives and machine learning development.
 
 ## academic research papers: synthesis and induction
 
