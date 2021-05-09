@@ -1,7 +1,8 @@
-# quantitative research initiatives
+# quantitative research initiatives - synthesis to induction
 A select aggregation of academic research papers for quantitative research initiatives and machine learning development and reference.
 
-## academic research papers: synthesis and induction
+## academic research papers
+
 - [Forecasting Realized Volatility: An Automatic System Using Many Features and Many Machine Learning Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776915) - Sophia Zhengzi Li, Yushan Tang, 2021.
 
 - [A Meta-Learning approach to Model Uncertainty in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814938) - Miquel Noguer i Alonso, Gilberto Batres-Estrada, Ghozlane Yahiaoui, 2021.
