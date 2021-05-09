@@ -1,5 +1,5 @@
 # quantitative research initiatives
-A select aggregation of academic research papers for quantitative research initiatives and machine learning development.
+A select aggregation of academic research papers for quantitative research initiatives and machine learning development and reference.
 
 ## academic research papers: synthesis and induction
 - [Forecasting Realized Volatility: An Automatic System Using Many Features and Many Machine Learning Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776915) - Sophia Zhengzi Li, Yushan Tang, 2021.
