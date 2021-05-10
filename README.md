@@ -9,6 +9,8 @@ A select aggregation of academic research papers for quantitative research initi
 
 - [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) - Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021.
 
+- [Divide and Conquer: Financial Ratios and Industry Returns Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3136368) - Daniele Bianchi, Ken McAlinn, 2021. 
+
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) - James Ming Chen, Mobeen Uhr Rehman, Xuan Vinh Vo, 2021.
 
 - [Forecasting Commodity Prices Using Long-Short-Term Memory Neural Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786821) - Racine Ly, Fousseini Traore, 
