@@ -1,4 +1,4 @@
-# quantitative research initiatives - synthesis to induction
+# quantitative research initiatives - synthesis
 A select aggregation of academic research papers for quantitative research initiatives and machine learning development and reference.
 
 ## academic research papers:
