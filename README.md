@@ -1,5 +1,6 @@
 # quantitative research initiatives - synthesis
-A select aggregation of academic research papers for quantitative research initiatives development or reference.
+A dynamic select aggregation of academic research papers for quantitative research initiatives development or reference.
+Initiative Developments are in private repository. 
 
 ## academic research papers:
 
