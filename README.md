@@ -5,8 +5,6 @@ Select aggregation of academic research papers for quantitative research initiat
 
 - [Forecasting Realized Volatility: An Automatic System Using Many Features and Many Machine Learning Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776915) - Sophia Zhengzi Li, Yushan Tang, 2021.
 
-- [A Meta-Learning approach to Model Uncertainty in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814938) - Miquel Noguer i Alonso, Gilberto Batres-Estrada, Ghozlane Yahiaoui, 2021.
-
 - [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) - Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021.
 
 - [Divide and Conquer: Financial Ratios and Industry Returns Predictability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3136368) - Daniele Bianchi, Ken McAlinn, 2021. 
