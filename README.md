@@ -24,11 +24,13 @@ Khadim Dia, 2021.
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
 
+- [Empirical Asset Pricing via Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3159577) - Shihao Gu, Bryan T. Kelly, Dacheng Xiu, 2019.
+
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019.
 
-- [Machine Learning for Volatility Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401) - Artur Sepp, 2018 
+- [Machine Learning for Volatility Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401) - Artur Sepp, 2018. 
 
-- [Financial Time Series Prediction Using Deep Learning](https://arxiv.org/abs/1711.04174) - Ariel Navon, Yosi Keller, 2017
+- [Financial Time Series Prediction Using Deep Learning](https://arxiv.org/abs/1711.04174) - Ariel Navon, Yosi Keller, 2017.
 
 - [A real time clustering and SVM based price-volatility prediction for optimal trading strategy](https://www.sciencedirect.com/science/article/abs/pii/S0925231213009296) - Subhabrata Choudhury, Subhajyoti Ghosh, Arnab Bhattachary, Kiran Jude Fernandes, Manoj Kumar Tiwarie, 2014.
 
