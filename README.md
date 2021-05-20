@@ -20,6 +20,8 @@ Khadim Dia, 2021.
 
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020. 
 
+- [Option Pricing Under a Discrete-Time Markov Switching Stochastic Volatility with Co-Jump Model](https://arxiv.org/abs/2006.15054) - Michael C. Fu, Bingqing Li, Rongwen Wu, Tianqi Zhang, 2020.
+
 - [Stock Price Prediction Using Convolutional Neural Networks on a Multivariate Timeseries](https://arxiv.org/abs/2001.09769) - Sidra Mehtab, Jaydip Sen, 2020.
 
 - [The Serial Dependence of the Commodity Futures Returns: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536046) - Yufeng Han, Lingfei Kong, 2020.
