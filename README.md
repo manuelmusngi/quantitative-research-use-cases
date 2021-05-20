@@ -14,6 +14,8 @@ Select aggregation of academic research papers for quantitative research initiat
 - [Forecasting Commodity Prices Using Long-Short-Term Memory Neural Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786821) - Racine Ly, Fousseini Traore, 
 Khadim Dia, 2021.
 
+- [Portfolio risk allocation through Shapley value](https://arxiv.org/abs/2103.05453) - Patrick S. Hagan, Andrew Lesniewski, Georgios E. Skoufis, Diana E. Woodward, 2021.
+
 - [Predicting Future Implied Volatility Surface Using TDBP-Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739514) - Daniel Alexandre Bloch, Arthur Böök, 2020.
 
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020. 
