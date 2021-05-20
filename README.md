@@ -32,6 +32,8 @@ Khadim Dia, 2021.
 
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019.
 
+- [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059) - Shengli Chen, Zili Zhang, 2019.
+
 - [Machine Learning for Volatility Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401) - Artur Sepp, 2018. 
 
 - [Financial Time Series Prediction Using Deep Learning](https://arxiv.org/abs/1711.04174) - Ariel Navon, Yosi Keller, 2017.
