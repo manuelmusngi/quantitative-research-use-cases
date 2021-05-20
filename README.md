@@ -34,7 +34,7 @@ Khadim Dia, 2021.
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059) - Shengli Chen, Zili Zhang, 2019.
 
--[Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
+- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
 - [Machine Learning for Volatility Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401) - Artur Sepp, 2018. 
 
