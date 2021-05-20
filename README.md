@@ -32,6 +32,8 @@ Khadim Dia, 2021.
 
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019.
 
+- [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035) - Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
+
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059) - Shengli Chen, Zili Zhang, 2019.
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
