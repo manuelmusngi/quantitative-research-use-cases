@@ -1,4 +1,4 @@
-# quantitative research initiatives - synthesis
+# quantitative research initiatives
 Select aggregation of academic research papers for quantitative research initiatives development or reference.
 
 ## academic research papers:
