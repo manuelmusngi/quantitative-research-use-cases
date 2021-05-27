@@ -1,5 +1,5 @@
 # quantitative research initiatives
-Select aggregation of academic research papers for quantitative research initiatives development or reference.
+Select aggregation of academic research papers for quantitative research initiatives development.
 
 ## academic research papers:
 
