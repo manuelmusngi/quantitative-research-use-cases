@@ -1,7 +1,7 @@
 # quantitative research initiatives
 Select aggregation of academic research papers for quantitative research initiatives development.
 
-Initiative developments are in private repositories.
+Quantitative Research Initiative developments are in private repositories.
 
 ## academic research papers:
 
