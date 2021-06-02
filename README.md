@@ -32,6 +32,8 @@ Khadim Dia, 2021.
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
 
+- [Fundamental Factor Models Using Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3322187) - Seisuke Sugitomo, Minami Shotaro, 2019.
+
 - [Empirical Asset Pricing via Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3159577) - Shihao Gu, Bryan T. Kelly, Dacheng Xiu, 2019.
 
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019.
