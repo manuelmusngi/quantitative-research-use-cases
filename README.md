@@ -30,6 +30,8 @@ Khadim Dia, 2021.
 
 - [The Serial Dependence of the Commodity Futures Returns: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536046) - Yufeng Han, Lingfei Kong, 2020.
 
+-[Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods](https://arxiv.org/abs/1705.03233) - Adamantios Ntakaris, Martin Magris, Juho Kanniainen, Moncef Gabbouj, Alexandros Iosifidis, - 2020.
+
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
 
 - [Fundamental Factor Models Using Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3322187) - Seisuke Sugitomo, Minami Shotaro, 2019.
@@ -44,7 +46,7 @@ Khadim Dia, 2021.
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
-- [Machine Learning for Volatility Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401) - Artur Sepp, 2018. 
+- [Machine Learning for Volatility Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401) - Artur Sepp, 2018.
 
 - [Financial Time Series Prediction Using Deep Learning](https://arxiv.org/abs/1711.04174) - Ariel Navon, Yosi Keller, 2017.
 
