@@ -30,7 +30,7 @@ Khadim Dia, 2021.
 
 - [The Serial Dependence of the Commodity Futures Returns: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3536046) - Yufeng Han, Lingfei Kong, 2020.
 
--[Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods](https://arxiv.org/abs/1705.03233) - Adamantios Ntakaris, Martin Magris, Juho Kanniainen, Moncef Gabbouj, Alexandros Iosifidis, - 2020.
+- [Benchmark Dataset for Mid-Price Forecasting of Limit Order Book Data with Machine Learning Methods](https://arxiv.org/abs/1705.03233) - Adamantios Ntakaris, Martin Magris, Juho Kanniainen, Moncef Gabbouj, Alexandros Iosifidis, - 2020.
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
 
