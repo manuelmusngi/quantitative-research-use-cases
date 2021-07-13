@@ -7,6 +7,8 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Forecasting Realized Volatility: An Automatic System Using Many Features and Many Machine Learning Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776915) - Sophia Zhengzi Li, Yushan Tang, 2021.
 
+- [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) - Axel A. Araneda, 2021.
+
 - [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) - Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021.
 
 - [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) - Alexandru Giurca, Svetlana Borovkova, 2021.
