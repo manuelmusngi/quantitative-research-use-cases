@@ -19,16 +19,20 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Axel A. Araneda, 2021.
   - Code
 
-- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) -
+- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
   -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021.
   -  Code 
 
-- [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) -
+- [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
   -  Alexandru Giurca, Svetlana Borovkova, 2021.
+  -  Code
 
-- [Predicting Future Implied Volatility Surface Using TDBP-Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739514) - Daniel Alexandre Bloch, Arthur Böök, 2020.
+- [Predicting Future Implied Volatility Surface Using TDBP-Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739514) 
+  - Daniel Alexandre Bloch, Arthur Böök, 2020.
+  - Code
 
-- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020. 
+- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
+- - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020. 
 
 - [Option Pricing Under a Discrete-Time Markov Switching Stochastic Volatility with Co-Jump Model](https://arxiv.org/abs/2006.15054) - Michael C. Fu, Bingqing Li, Rongwen Wu, Tianqi Zhang, 2020.
 
