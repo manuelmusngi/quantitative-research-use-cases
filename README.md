@@ -3,8 +3,10 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 ## academic research papers:
 
-- [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) - Mathieu Rosenbaum, Jianfei Zhang, 2021.
-
+- [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) 
+  - Mathieu Rosenbaum, Jianfei Zhang, 2021.
+  - Code 
+  
 - [Modeling and Forecasting Realized Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=262720#) - Torben G. Andersen, Tim Bollerslev, Francis X. Diebold, Paul Labys, 2021.
 
 - [Forecasting Realized Volatility: An Automatic System Using Many Features and Many Machine Learning Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3776915) - Sophia Zhengzi Li, Yushan Tang, 2021.
