@@ -1,10 +1,11 @@
-# quantitative research initiatives
+# quantitative research initiatives 
 This is a select and dynamic aggregation of academic research papers for quantitative research initiatives development.
 
 ## academic research papers:
 
 - [Modeling and Forecasting Realized Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=262720#) 
   - Torben G. Andersen, Tim Bollerslev, Francis X. Diebold, Paul Labys, 2021.
+  - Code
 
 - [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) 
   - Mathieu Rosenbaum, Jianfei Zhang, 2021. 
@@ -26,7 +27,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
-  - Code 
 
 - [Option Pricing Under a Discrete-Time Markov Switching Stochastic Volatility with Co-Jump Model](https://arxiv.org/abs/2006.15054) -
   - Michael C. Fu, Bingqing Li, Rongwen Wu, Tianqi Zhang, 2020.
