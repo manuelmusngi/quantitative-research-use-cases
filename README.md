@@ -38,7 +38,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) 
   - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019. 
 
-- [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035) -
+- [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
