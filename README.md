@@ -5,12 +5,18 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
   - Axel A. Araneda, 2021.
-
-- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
-  -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
+  -  Code
+  
+  - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
+  -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
+  -  Code
 
 - [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
   -  Alexandru Giurca, Svetlana Borovkova, 2021.
+  -  Code
+  
+- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
+  -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
 
 - [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) 
   - Mathieu Rosenbaum, Jianfei Zhang, 2021. 
@@ -27,13 +33,12 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) 
   - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019. 
 
-- [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
-  -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
-
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   -  Shengli Chen, Zili Zhang, 2019.
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
+
+ 
 
 
