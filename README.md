@@ -42,5 +42,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
  
 - [Analysis of financial data using non-negative matrix factorization](https://www.researchgate.net/publication/228656913_Analysis_of_financial_data_using_non-negative_matrix_factorization) 
   - Konstantinos Drakakis, Scott Rickard, Ruairí de Fréin, Andrzej Cichocki.
-  - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
+  - Reference:
+    - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
 
