@@ -7,13 +7,13 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Axel A. Araneda, 2021.
   -  Code
   
+  - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
+  - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
+  - Code
+  
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
   -  Code
-
-- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
-  - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
-  - Code
 
 - [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
   -  Alexandru Giurca, Svetlana Borovkova, 2021.
