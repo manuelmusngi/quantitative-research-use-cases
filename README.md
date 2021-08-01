@@ -11,6 +11,10 @@ This is a select and dynamic aggregation of academic research papers for quantit
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
   -  Code
 
+- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
+  - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
+  - Code
+
 - [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
   -  Alexandru Giurca, Svetlana Borovkova, 2021.
   -  Code
@@ -20,9 +24,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) 
   - Mathieu Rosenbaum, Jianfei Zhang, 2021. 
-
-- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
-  - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
 
 - [Option Pricing Under a Discrete-Time Markov Switching Stochastic Volatility with Co-Jump Model](https://arxiv.org/abs/2006.15054) 
   - Michael C. Fu, Bingqing Li, Rongwen Wu, Tianqi Zhang, 2020.
