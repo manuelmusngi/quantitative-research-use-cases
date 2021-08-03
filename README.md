@@ -15,6 +15,10 @@ This is a select and dynamic aggregation of academic research papers for quantit
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
   -  Code
 
+- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
+  - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
+  - Code  
+
 - [Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
   - Yuan Hu, W. Brent Lindquist, 2021.
   
