@@ -15,6 +15,9 @@ This is a select and dynamic aggregation of academic research papers for quantit
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
   -  Code
 
+-[Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
+  - Yuan Hu, W. Brent Lindquist, 2021.
+  
 - [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
   -  Alexandru Giurca, Svetlana Borovkova, 2021.
   
