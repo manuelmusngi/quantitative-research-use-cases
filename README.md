@@ -6,7 +6,8 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
   - Axel A. Araneda, 2021.
   -  Code
-  
+    - https://github.com/manuelmusngi/asset_volatility_forecasting-ewma_model
+    
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
   - Code
