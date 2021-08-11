@@ -9,15 +9,14 @@ This is a select and dynamic aggregation of academic research papers for quantit
     
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
-  - Code
-  
-- [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
-  -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
-  -  Code
+  - Code  
 
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
   - Code  
+
+- [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
+  -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
 
 - [Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
   - Yuan Hu, W. Brent Lindquist, 2021.
@@ -46,7 +45,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
- 
 - [Analysis of financial data using non-negative matrix factorization](https://www.researchgate.net/publication/228656913_Analysis_of_financial_data_using_non-negative_matrix_factorization) 
   - Konstantinos Drakakis, Scott Rickard, Ruairí de Fréin, Andrzej Cichocki.
   - Reference:
