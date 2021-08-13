@@ -7,7 +7,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Axel A. Araneda, 2021.
   -  Code
  
- - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
+- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
   - Code  
  
