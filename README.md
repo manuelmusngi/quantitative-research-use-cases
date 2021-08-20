@@ -19,6 +19,9 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
   - Code  
 
+- [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
+  - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
+
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
 
