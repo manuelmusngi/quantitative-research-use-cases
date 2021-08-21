@@ -15,9 +15,11 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - James Ming Chen, Mobeen Ur Rehman, Xuan Vinh Vo, 2021.
   - Code
 
+- [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
+  - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
+  
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
-  - Code  
 
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
