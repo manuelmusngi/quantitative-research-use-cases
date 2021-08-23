@@ -19,6 +19,9 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
   - Code  
   
+- [Option Return Predictability with Machine Learning and Big Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895984)
+  - Turan G. Bali, Heiner Beckmeyer, Mathis Moerke, Florian Weigert, 2021
+
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
 
