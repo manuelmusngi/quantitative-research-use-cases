@@ -18,9 +18,15 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
   - Code  
-  
+
+- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
+  - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
+
 - [Option Return Predictability with Machine Learning and Big Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895984)
-  - Turan G. Bali, Heiner Beckmeyer, Mathis Moerke, Florian Weigert, 2021
+  - Turan G. Bali, Heiner Beckmeyer, Mathis Moerke, Florian Weigert, 2021.
+
+- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
+  -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
 
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
@@ -33,9 +39,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
   
 - [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
   -  Alexandru Giurca, Svetlana Borovkova, 2021.
-  
-- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
-  -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
 
 - [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) 
   - Mathieu Rosenbaum, Jianfei Zhang, 2021. 
@@ -51,9 +54,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   -  Shengli Chen, Zili Zhang, 2019.
-
-- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
-  - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
 - [Analysis of financial data using non-negative matrix factorization](https://www.researchgate.net/publication/228656913_Analysis_of_financial_data_using_non-negative_matrix_factorization) 
   - Konstantinos Drakakis, Scott Rickard, Ruairí de Fréin, Andrzej Cichocki.
