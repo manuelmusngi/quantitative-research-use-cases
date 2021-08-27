@@ -17,7 +17,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
-  - Code  
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
@@ -36,9 +35,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
   - Yuan Hu, W. Brent Lindquist, 2021.
-  
-- [Delta Hedging of Derivatives using Deep Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3847272) 
-  -  Alexandru Giurca, Svetlana Borovkova, 2021.
 
 - [Deep calibration of the quadratic rough Heston model](https://arxiv.org/abs/2107.01611) 
   - Mathieu Rosenbaum, Jianfei Zhang, 2021. 
