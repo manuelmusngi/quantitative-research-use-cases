@@ -15,9 +15,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
   - Code
 
-- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
-  - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
-
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
@@ -29,6 +26,9 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
+
+- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
+  - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
 
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
@@ -50,9 +50,4 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   -  Shengli Chen, Zili Zhang, 2019.
-
-- [Analysis of financial data using non-negative matrix factorization](https://www.researchgate.net/publication/228656913_Analysis_of_financial_data_using_non-negative_matrix_factorization) 
-  - Konstantinos Drakakis, Scott Rickard, Ruairí de Fréin, Andrzej Cichocki.
-  - Reference:
-    - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
 
