@@ -6,11 +6,12 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
   - Axel A. Araneda, 2021.
   -  Code development reference:
-      - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html
+     - [EWMA](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
  
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - James Ming Chen, Mobeen Ur Rehman, Xuan Vinh Vo, 2021.
-  - Code
+  - Code development reference:
+    - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
