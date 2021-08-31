@@ -16,7 +16,10 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
   - Code development reference:
-    - [LDA](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html) 
+    - [LDA](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html)
+    - [QDA](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html)
+    - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logistic%20regression#sklearn.linear_model.LogisticRegression)
+    - [DecisionTree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html?highlight=decisiontree#sklearn.tree.DecisionTreeClassifier)
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
