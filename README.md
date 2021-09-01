@@ -8,7 +8,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
   -  Code development reference:
      - [EWMA](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
      - [Shapiro Wilk (SW)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html)
-     - [Augmented Dickey Fuller(ADF)](https://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.adfuller.html)
+     - [Augmented Dickey Fuller (ADF)](https://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.adfuller.html)
  
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
