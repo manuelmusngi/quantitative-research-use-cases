@@ -20,6 +20,9 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
+  - Code development reference:
+    - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
+    - [LASSO regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - James Ming Chen, Mobeen Ur Rehman, Xuan Vinh Vo, 2021.
