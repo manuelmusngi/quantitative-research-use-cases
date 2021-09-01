@@ -7,6 +7,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Axel A. Araneda, 2021.
   -  Code development reference:
      - [EWMA](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
+     - [Shapiro Wilk SW](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html)
  
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
