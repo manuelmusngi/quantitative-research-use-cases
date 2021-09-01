@@ -38,9 +38,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
 
-- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
-  - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
-
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
 
