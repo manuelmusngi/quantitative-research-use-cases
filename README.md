@@ -33,7 +33,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - James Ming Chen, Mobeen Ur Rehman, Xuan Vinh Vo, 2021.
   - Code development reference:
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
-    - [Kmeans Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
+    - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
