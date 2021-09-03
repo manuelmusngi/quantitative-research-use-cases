@@ -6,7 +6,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
   - Axel A. Araneda, 2021.
   -  Model architecture and Code development reference:
-     - [EWMA](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
+     - [Exponentially Weighted Moving Average (EWMA)](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
      - [Shapiro Wilk (SW)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html)
      - [Augmented Dickey Fuller (ADF)](https://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.adfuller.html)
  
