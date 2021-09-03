@@ -35,7 +35,13 @@ This is a select and dynamic aggregation of academic research papers for quantit
     - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
-
+   
+- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
+  - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
+  - Model architecture and Code development reference:
+    - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
+    - [Kernel Density Estimation (KDE)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_digits_kde_sampling.html?highlight=kernel%20density%20estimation)
+    
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
@@ -44,9 +50,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
   -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
-
-- [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
-  - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
 
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
