@@ -14,6 +14,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
   - Model architecture and Code development reference:
+    - [Principal component analysis (PCA)](https://scikitlearn.org/stable/modules/generated/sklearn.decomposition.PCA.html#:~:text=sklearn.decomposition%20.PCA%20%C2%B6%20%20,fit%20%28X%205%20more%20rows%20)
     - [LinearDiscriminantAnalysis (LDA)](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html)
     - [QuadraticDiscriminantAnalysis (QDA)](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html)
     - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logistic%20regression#sklearn.linear_model.LogisticRegression)
