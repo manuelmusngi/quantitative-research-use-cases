@@ -5,7 +5,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
   - Axel A. Araneda, 2021.
-  -  Models and Code development reference:
+  -  Model and Code development reference:
      - [Exponentially Weighted Moving Average (EWMA)](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
      - [Shapiro Wilk (SW)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html)
      - [Augmented Dickey Fuller (ADF)](https://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.adfuller.html)
@@ -13,7 +13,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
  
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
-  - Models and Code development reference:
+  - Model and Code development reference:
     - [Principal component analysis (PCA)](https://scikitlearn.org/stable/modules/generated/sklearn.decomposition.PCA.html#:~:text=sklearn.decomposition%20.PCA%20%C2%B6%20%20,fit%20%28X%205%20more%20rows%20)
     - [K-Means clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
     - [LinearDiscriminantAnalysis (LDA)](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html)
@@ -25,7 +25,7 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
-  - Models and Code development reference:
+  - Model and Code development reference:
     - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
     - [LASSO regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
     - [Logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
@@ -34,14 +34,14 @@ This is a select and dynamic aggregation of academic research papers for quantit
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - James Ming Chen, Mobeen Ur Rehman, Xuan Vinh Vo, 2021.
-  - Models and Code development reference:
+  - Model and Code development reference:
     - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
    
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
-  - Models and Code development reference:
+  - Model and Code development reference:
     - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
     - [Kernel Density Estimation (KDE)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_digits_kde_sampling.html?highlight=kernel%20density%20estimation)
     
