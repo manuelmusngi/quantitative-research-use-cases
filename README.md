@@ -50,6 +50,9 @@ This is a select and dynamic aggregation of academic research papers for quantit
   - Model and Code development reference:
     - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
+-[Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+  - Guillaume Coqueret, Romain Deguest, 2020.
+
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
 
