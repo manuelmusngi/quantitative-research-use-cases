@@ -48,9 +48,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
-- [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
-  -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
-
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
 
