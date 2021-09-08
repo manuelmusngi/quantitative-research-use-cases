@@ -47,6 +47,8 @@ This is a select and dynamic aggregation of academic research papers for quantit
     
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
+  - Model and Code development reference:
+    - [nelson-siegel-svensson](https://pypi.org/project/nelson-siegel-svensson/) 
 
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
