@@ -48,9 +48,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - Fearghal Kearney, Han Lin Shang, Lisa Sheenan, 2019.
 
-- [Option Return Predictability with Machine Learning and Big Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895984)
-  - Turan G. Bali, Heiner Beckmeyer, Mathis Moerke, Florian Weigert, 2021.
-
 - [Deep Hedging: Learning Risk-Neutral Implied Volatility Dynamics](https://arxiv.org/abs/2103.11948) 
   -  Hans Buehler, Phillip Murray, Mikko S. Pakkanen, Ben Wood, 2021. 
 
