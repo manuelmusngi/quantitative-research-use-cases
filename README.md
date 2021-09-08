@@ -1,5 +1,5 @@
 # quantitative research initiatives 
-This is a select and dynamic aggregation of academic research papers under code development.
+This is a select and dynamic aggregation of academic research papers under code development and analysis.
 
 ## academic research papers:
 
