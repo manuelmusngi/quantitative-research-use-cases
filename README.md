@@ -54,9 +54,6 @@ This is a select and dynamic aggregation of academic research papers for quantit
 - [Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
   - Yuan Hu, W. Brent Lindquist, 2021.
 
-- [Option Pricing Under a Discrete-Time Markov Switching Stochastic Volatility with Co-Jump Model](https://arxiv.org/abs/2006.15054) 
-  - Michael C. Fu, Bingqing Li, Rongwen Wu, Tianqi Zhang, 2020.
-  
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
   
