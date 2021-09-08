@@ -1,5 +1,5 @@
 # quantitative research initiatives 
-This is a select and dynamic aggregation of academic research papers for quantitative research initiatives development.
+This is a select and dynamic aggregation of academic research papers under current quantitative research initiatives development.
 
 ## academic research papers:
 
