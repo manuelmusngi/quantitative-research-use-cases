@@ -57,6 +57,9 @@ This is a select and dynamic aggregation of academic research papers in model an
 
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
+  -  Model and Code development reference:
+      - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
+      - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
 
 - [Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
   - Yuan Hu, W. Brent Lindquist, 2021.
