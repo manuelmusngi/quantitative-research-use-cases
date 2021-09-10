@@ -61,9 +61,6 @@ This is a select and dynamic aggregation of academic research papers in model an
       - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
 
-- [Portfolio Optimization Constrained by Performance Attribution](https://arxiv.org/abs/2103.04432v1)
-  - Yuan Hu, W. Brent Lindquist, 2021.
-
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
   
