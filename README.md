@@ -64,9 +64,6 @@ This is a select and dynamic aggregation of academic research papers in model an
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
   
-- [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) 
-  - Blanka Horvath, Aitor Muguruza, Mehdi Tomas, 2019. 
-
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   -  Shengli Chen, Zili Zhang, 2019.
 
