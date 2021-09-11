@@ -50,16 +50,16 @@ This is a select and dynamic aggregation of academic research papers in model an
   - Model and Code development reference:
     - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
-- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
-  - Guillaume Coqueret, Romain Deguest, 2020.
-  - Model and Code development reference:
-    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation) 
-
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Peter Carr, Liuren Wu, Zhibai Zhang, 2019.
   -  Model and Code development reference:
       - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
+
+- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+  - Guillaume Coqueret, Romain Deguest, 2020.
+  - Model and Code development reference:
+    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation) 
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
