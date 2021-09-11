@@ -59,11 +59,11 @@ This is a select and dynamic aggregation of academic research papers in model an
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - Guillaume Coqueret, Romain Deguest, 2020.
   - Model and Code development reference:
-    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation) 
+    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+
+- [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
+  -  Shengli Chen, Zili Zhang, 2019.
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   - Shuaiqiang Liu, Cornelis W. Oosterlee, Sander M.Bohte, 2019.
   
-- [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
-  -  Shengli Chen, Zili Zhang, 2019.
-
