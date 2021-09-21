@@ -1,5 +1,5 @@
 # quantitative research initiatives 
-This is a select and dynamic aggregation of academic research papers in model and code development. Completed project will be publicly released in a separate repository.
+This is a select and dynamic aggregation of academic research papers in model and code development. Completed project will be publicly released in their compartment repository.
 
 ## academic research papers in development:
 
