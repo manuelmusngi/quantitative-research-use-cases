@@ -2,14 +2,6 @@
 This is a select and dynamic aggregation of research papers that are in model and code development. Completed project(s) are released in their respective compartment repository.
 
 ## research papers in development:
-
-- [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
-  - Axel A. Araneda, 2021.
-  -  Model and Code development reference:
-     - [Exponentially Weighted Moving Average (EWMA)](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html)
-     - [Shapiro Wilk (SW)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html)
-     - [Augmented Dickey Fuller (ADF)](https://www.statsmodels.org/dev/generated/statsmodels.tsa.stattools.adfuller.html)
-     - [Diebold Mariano Test (DM)](https://epftoolbox.readthedocs.io/en/latest/modules/statest/dm.html)
  
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
