@@ -60,6 +60,7 @@ This is a select and dynamic aggregation of academic research papers that are in
   - Guillaume Coqueret, Romain Deguest, 2020.
   - Model and Code development reference:
     - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [R^2](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   -  Shengli Chen, Zili Zhang, 2019.
