@@ -1,7 +1,7 @@
 # quantitative research initiatives 
-This is a select and dynamic aggregation of academic research papers that are in model and code development. Completed project(s) are released in their respective compartment repository.
+This is a select and dynamic aggregation of research papers that are in model and code development. Completed project(s) are released in their respective compartment repository.
 
-## academic research papers in development:
+## research papers in development:
 
 - [Asset volatility forecasting:The optimal decay parameter in the EWMA model](https://arxiv.org/abs/2105.14382) 
   - Axel A. Araneda, 2021.
