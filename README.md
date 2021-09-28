@@ -39,6 +39,12 @@ This is a select and dynamic aggregation of academic research papers that are in
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
 
+- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+  - Guillaume Coqueret, Romain Deguest, 2020.
+  - Model and Code development reference:
+    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [Coefficient of Determination (r2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
+
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
   - Model and Code development reference:
@@ -55,12 +61,6 @@ This is a select and dynamic aggregation of academic research papers that are in
   -  Model and Code development reference:
       - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
-
-- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
-  - Guillaume Coqueret, Romain Deguest, 2020.
-  - Model and Code development reference:
-    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
-    - [Coefficient of Determination (r2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   -  Shengli Chen, Zili Zhang, 2019.
