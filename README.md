@@ -43,7 +43,7 @@ This is a select and dynamic aggregation of academic research papers that are in
   - Guillaume Coqueret, Romain Deguest, 2020.
   - Model and Code development reference:
     - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
-    - [Coefficient of Determination (r2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
+    - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Marius Lux, Wolfgang Karl Härdle, Stefan Lessmann, 2020.
