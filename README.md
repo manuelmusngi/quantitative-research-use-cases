@@ -3,6 +3,15 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 ## research papers in development:
  
+- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
+  - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
+  - Model and Code development reference:
+    - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
+    - [LASSO regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
+    - [Logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+    - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+    - [XGBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html#sklearn.ensemble.GradientBoostingClassifier)
+
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Peter Akioyamen, Yi Zhou Tang, Hussien Hussien, 2021.
   - Model and Code development reference:
@@ -14,15 +23,6 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [DecisionTree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html?highlight=decisiontree#sklearn.tree.DecisionTreeClassifier)
     - [AdaBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html?highlight=adaboost#sklearn.ensemble.AdaBoostClassifier)
     - [NaiveBayes](https://scikit-learn.org/stable/modules/classes.html?highlight=naive%20bayes#module-sklearn.naive_bayes)
-
-- [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
-  - Amine Abouseir, Arthur Le Manach, Mohamed El Mennaoui, Ban Zheng, 2020.
-  - Model and Code development reference:
-    - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
-    - [LASSO regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
-    - [Logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-    - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
-    - [XGBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html#sklearn.ensemble.GradientBoostingClassifier)
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - James Ming Chen, Mobeen Ur Rehman, Xuan Vinh Vo, 2021.
