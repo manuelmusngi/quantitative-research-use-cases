@@ -49,5 +49,7 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
 
+- [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
+
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   
