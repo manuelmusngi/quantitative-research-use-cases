@@ -1,7 +1,7 @@
 # quantitative research initiatives 
 This is a select and dynamic aggregation of research papers that are in model and code development. Completed project(s) are released in their respective compartment repository.
 
-## research papers in development:
+## case study research papers in development:
  
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Model and Code development reference(s):
