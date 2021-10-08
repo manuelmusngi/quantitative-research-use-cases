@@ -33,6 +33,10 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
     - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
+- [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
+    - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+    - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
+
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - Model and Code development reference(s):
     - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
@@ -49,7 +53,6 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
 
-- [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
   
