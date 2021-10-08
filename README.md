@@ -34,7 +34,7 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
 
 - [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
-    - Model and Code development reference(s): 
+  - Model and Code development reference(s): 
      - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
      - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
 
