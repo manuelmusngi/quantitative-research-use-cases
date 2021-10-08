@@ -22,16 +22,16 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [AdaBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html?highlight=adaboost#sklearn.ensemble.AdaBoostClassifier)
     - [NaiveBayes](https://scikit-learn.org/stable/modules/classes.html?highlight=naive%20bayes#module-sklearn.naive_bayes)
 
+- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+  - Model and Code development reference(s):
+    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
+
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - Model and Code development reference(s):
     - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
-
-- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
-  - Model and Code development reference(s):
-    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
-    - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 - [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
     - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
