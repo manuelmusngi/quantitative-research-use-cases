@@ -54,6 +54,7 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
 
-
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
+
+-[Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
   
