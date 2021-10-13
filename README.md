@@ -58,3 +58,4 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
   
+- [Application of Three Different Machine Learning Methods on Strategy Creation for Profitable Trades on Cryptocurrency Markets](https://arxiv.org/abs/2105.06827)
