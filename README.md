@@ -11,6 +11,11 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
     - [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
 
+- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+  - Model and Code development reference(s):
+    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
+
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Modeling and Code development reference(s):
     - [Principal component analysis (PCA)](https://scikitlearn.org/stable/modules/generated/sklearn.decomposition.PCA.html#:~:text=sklearn.decomposition%20.PCA%20%C2%B6%20%20,fit%20%28X%205%20more%20rows%20)
@@ -21,11 +26,6 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [DecisionTree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html?highlight=decisiontree#sklearn.tree.DecisionTreeClassifier)
     - [AdaBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html?highlight=adaboost#sklearn.ensemble.AdaBoostClassifier)
     - [NaiveBayes](https://scikit-learn.org/stable/modules/classes.html?highlight=naive%20bayes#module-sklearn.naive_bayes)
-
-- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
-  - Model and Code development reference(s):
-    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
-    - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - Modeling and Code development reference(s):
