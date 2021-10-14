@@ -16,6 +16,13 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
     - [Coefficient of Determination (R^2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
+- [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
+  - Modeling and Code development reference(s):
+      - [Ordinary Least Square](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
+      - [Nelson-Siegel Model](https://pypi.org/project/nelson-siegel-svensson/)
+      - [Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)
+      - [Root Mean Square Error(RMSE)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) 
+
 - [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
   - Modeling and Code development reference(s):
     - [Principal component analysis (PCA)](https://scikitlearn.org/stable/modules/generated/sklearn.decomposition.PCA.html#:~:text=sklearn.decomposition%20.PCA%20%C2%B6%20%20,fit%20%28X%205%20more%20rows%20)
@@ -31,14 +38,7 @@ This is a select and dynamic aggregation of research papers that are in model an
   - Modeling and Code development reference(s): 
      - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
      - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
-   
-- [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
-  - Modeling and Code development reference(s):
-      - [Ordinary Least Square](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
-      - [Nelson-Siegel Model](https://pypi.org/project/nelson-siegel-svensson/)
-      - [Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)
-      - [Root Mean Square Error(RMSE)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)   
-
+    
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - Modeling and Code development reference(s):
     - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
