@@ -35,7 +35,8 @@ This is a select and dynamic aggregation of research papers that are in model an
 - [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
   - Modeling and Code development reference(s):
       - [Ordinary Least Square](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
-      - [Nelson-Siegel Model](https://pypi.org/project/nelson-siegel-svensson/)   
+      - [Nelson-Siegel Model](https://pypi.org/project/nelson-siegel-svensson/)
+      - [Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)   
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - Modeling and Code development reference(s):
