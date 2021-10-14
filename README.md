@@ -31,6 +31,11 @@ This is a select and dynamic aggregation of research papers that are in model an
   - Modeling and Code development reference(s): 
      - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
      - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
+   
+- [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
+  - Modeling and Code development reference(s):
+      - [Ordinary Least Square](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
+      - [Nelson-Siegel Model](https://pypi.org/project/nelson-siegel-svensson/)   
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - Modeling and Code development reference(s):
