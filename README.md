@@ -61,6 +61,8 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
 
+- [A Quantum Generative Adversarial Network for distributions](https://arxiv.org/abs/2110.02742)
+
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
