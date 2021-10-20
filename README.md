@@ -57,7 +57,9 @@ This is a select and dynamic aggregation of research papers that are in model an
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   -  Modeling and Code development reference(s):
       - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
-      - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
+      - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html) 
+
+- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
 
 - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
 
