@@ -23,17 +23,6 @@ This is a select and dynamic aggregation of research papers that are in model an
       - [Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)
       - [Root Mean Square Error(RMSE)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) 
 
-- [A Hybrid Learning Approach to Detecting Regime Switches in Financial Markets](https://arxiv.org/abs/2108.05801) 
-  - Modeling and Code development reference(s):
-    - [Principal component analysis (PCA)](https://scikitlearn.org/stable/modules/generated/sklearn.decomposition.PCA.html#:~:text=sklearn.decomposition%20.PCA%20%C2%B6%20%20,fit%20%28X%205%20more%20rows%20)
-    - [K-Means clustering](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-    - [LinearDiscriminantAnalysis (LDA)](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html)
-    - [QuadraticDiscriminantAnalysis (QDA)](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html)
-    - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logistic%20regression#sklearn.linear_model.LogisticRegression)
-    - [DecisionTree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html?highlight=decisiontree#sklearn.tree.DecisionTreeClassifier)
-    - [AdaBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html?highlight=adaboost#sklearn.ensemble.AdaBoostClassifier)
-    - [NaiveBayes](https://scikit-learn.org/stable/modules/classes.html?highlight=naive%20bayes#module-sklearn.naive_bayes)
-
 - [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
   - Modeling and Code development reference(s): 
      - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
