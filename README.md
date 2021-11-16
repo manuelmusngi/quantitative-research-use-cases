@@ -50,6 +50,10 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
 
+- [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
+  
+- [Application of Three Different Machine Learning Methods on Strategy Creation for Profitable Trades on Cryptocurrency Markets](https://arxiv.org/abs/2105.06827)
+
 - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
 
 - [A Quantum Generative Adversarial Network for distributions](https://arxiv.org/abs/2110.02742)
@@ -58,6 +62,4 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
 
-- [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
-  
-- [Application of Three Different Machine Learning Methods on Strategy Creation for Profitable Trades on Cryptocurrency Markets](https://arxiv.org/abs/2105.06827)
+
