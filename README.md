@@ -16,6 +16,12 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
     - [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
 
+- [Application of Three Different Machine Learning Methods on Strategy Creation for Profitable Trades on Cryptocurrency Markets](https://arxiv.org/abs/2105.06827
+  - Modeling and Code development reference(s):
+    - [K-Nearest Neighbors Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)  
+    - [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+    - [eXtreme Gradient Boosting Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+
 - [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
   - Modeling and Code development reference(s):
       - [Ordinary Least Square](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
