@@ -1,7 +1,7 @@
 # quantitative research initiatives 
 This is a select and dynamic aggregation of research papers that are in model and code development. Completed development project(s) are released in their respective private repository.
 
-## research paper case studies in development:
+## research paper use case(s) in development:
 
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - Modeling and Code development reference(s):
