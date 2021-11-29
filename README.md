@@ -10,7 +10,7 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - Modeling and Code development reference(s):
-    - [GARCH models](https://www.statsmodels.org/stable/tsa.html#arma-process)
+    - [ARMA models](https://www.statsmodels.org/stable/tsa.html#arma-process)
     - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
