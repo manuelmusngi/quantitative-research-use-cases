@@ -5,7 +5,8 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - Modeling and Code development reference(s):
-    - [Ordinary Least Squares](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)(https://scikit-learn.org/stable/modules/linear_model.html#)
+    - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [OLS Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#)
     - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
     - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
