@@ -15,9 +15,9 @@ This is a select and dynamic aggregation of research papers that are in model an
 
 - [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
   - Modeling and Code development reference(s):
-    - [Pytorch LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
-    - [Keras Proximal Policy Optimization](https://keras.io/examples/rl/ppo_cartpole/)
-    - [Pytorch Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
+    - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
+    - [Proximal Policy Optimization](https://keras.io/examples/rl/ppo_cartpole/)
+    - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
 
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Modeling and Code development reference(s):
@@ -67,7 +67,6 @@ This is a select and dynamic aggregation of research papers that are in model an
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html) 
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
-
 
 - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
 
