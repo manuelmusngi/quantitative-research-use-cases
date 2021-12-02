@@ -1,5 +1,6 @@
 # quantitative research initiatives 
 This is a select and dynamic aggregation of research papers that are in model and code development. Completed development project(s) are released in their respective private repository.
+
 ## research paper use case(s) in development:
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
