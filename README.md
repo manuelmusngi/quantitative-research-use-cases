@@ -1,7 +1,11 @@
 # quantitative research initiatives 
 This is a select and dynamic aggregation of research papers that are in model and code development. Completed development project(s) are released in their respective private repository.
-
 ## research paper use case(s) in development:
+
+- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
+  - Modeling and Code development reference(s):
+    - [ARMA models](https://www.statsmodels.org/stable/tsa.html#arma-process)
+    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - Modeling and Code development reference(s):
@@ -9,11 +13,6 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [OLS Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#)
     - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
     - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
-
-- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
-  - Modeling and Code development reference(s):
-    - [ARMA models](https://www.statsmodels.org/stable/tsa.html#arma-process)
-    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
   - Modeling and Code development reference(s):
