@@ -73,8 +73,8 @@ The reference libraries should give you an idea of the undertaking and applicati
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
       - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
 
-- [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
-
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
+
+- [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
 
 
