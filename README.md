@@ -1,6 +1,6 @@
 # quantitative research initiatives 
 This is a dynamic aggregation of research papers that are in model and code development. Development initiative(s) are conducted in their respective private repository.
-The reference libraries should give you an idea of the undertaking and application of the algorithms that you can use in your own project development.
+The reference libraries provides you of the algorithms being applied that you can use in your project development.
 
 ## research paper use case(s) in development:
 
