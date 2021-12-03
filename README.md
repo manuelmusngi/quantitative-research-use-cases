@@ -19,6 +19,7 @@ The reference libraries provide the algorithm(s) being applied.
 - [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
   - Modeling and Code development reference(s):
     - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
+    - [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)
     - [Proximal Policy Optimization](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
 
