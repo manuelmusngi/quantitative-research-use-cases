@@ -41,7 +41,6 @@ This is a select and dynamic aggregation of research papers that are in model an
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
 
-
 - [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
   - Modeling and Code development reference(s):
       - [Ordinary Least Square](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html)
@@ -69,6 +68,9 @@ This is a select and dynamic aggregation of research papers that are in model an
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html) 
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
+  -  Modeling and Code development reference(s):
+      - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
+      - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
 
 - [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
 
