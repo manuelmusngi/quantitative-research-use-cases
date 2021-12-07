@@ -6,7 +6,7 @@ The reference libraries provide the algorithms being applied.
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - Modeling and Code development reference(s):
-    - [ARMA models](https://www.statsmodels.org/stable/tsa.html#arma-process)
+    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
     - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
