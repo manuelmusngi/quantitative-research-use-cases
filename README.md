@@ -77,6 +77,3 @@ The reference libraries provide the algorithms being applied.
 
 - [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
 
-- [Deep Hedging of Derivatives Using Reinforcement Learning](https://arxiv.org/pdf/2103.16409.pdf)
-
-
