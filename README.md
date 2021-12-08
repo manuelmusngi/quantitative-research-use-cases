@@ -75,5 +75,3 @@ The reference libraries provide the algorithms being applied.
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
       - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
 
-- [Pricing options and computing implied volatilities using neural networks](https://arxiv.org/abs/1901.08943) 
-
