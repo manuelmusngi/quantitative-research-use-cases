@@ -24,6 +24,12 @@ The reference libraries provide the algorithms being applied.
     - [Proximal Policy Optimization (PPO)](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
 
+- [Application of Three Different Machine Learning Methods on Strategy Creation for Profitable Trades on Cryptocurrency Markets](https://arxiv.org/abs/2105.06827)
+  - Modeling and Code development reference(s):
+    - [K-Nearest Neighbors Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)  
+    - [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+    - [eXtreme Gradient Boosting Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Modeling and Code development reference(s):
     - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
@@ -31,12 +37,6 @@ The reference libraries provide the algorithms being applied.
     - [Logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
     - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
     - [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
-
-- [Application of Three Different Machine Learning Methods on Strategy Creation for Profitable Trades on Cryptocurrency Markets](https://arxiv.org/abs/2105.06827)
-  - Modeling and Code development reference(s):
-    - [K-Nearest Neighbors Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)  
-    - [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-    - [eXtreme Gradient Boosting Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - Modeling and Code development reference(s):
