@@ -23,6 +23,13 @@ The reference modeling and code development libraries provide the algorithms bei
     - [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
     - [eXtreme Gradient Boosting Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
 
+-[The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
+  - Modeling and Code development reference(s):
+    - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+    - [Gradient Boosted Regression](https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html)
+    - [Feed-Forward Neural Network](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
+    - [Long Short Term Memory Neural Network](https://keras.io/api/layers/recurrent_layers/lstm/)
+    
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - Modeling and Code development reference(s):
     - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
