@@ -2,7 +2,7 @@
 This is a dynamic aggregation of research papers that are in model and code development. Developments are conducted in their respective private repository.
 The reference modeling and code development libraries provide the algorithms being applied.
 
-## research paper use case(s):
+## select research paper use case(s):
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - Modeling and Code development reference(s):
