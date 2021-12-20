@@ -1,6 +1,6 @@
 # quantitative research initiatives 
 This is a dynamic aggregation of research papers that are in model and code development. Developments are conducted in their respective private repository.
-The reference modeling and code development libraries provide the algorithms being applied.
+However, the reference modeling and code development libraries provide the algorithms being applied.
 
 ## select research paper use case(s):
 
