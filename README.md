@@ -1,7 +1,3 @@
-# quantitative research initiatives 
-This is a dynamic aggregation of research papers that are in model and code development. Developments are conducted in their respective private repository.
-However, the reference modeling and code development libraries provide the algorithms being applied.
-
 ## select research paper use case(s):
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
