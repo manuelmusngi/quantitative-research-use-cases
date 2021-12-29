@@ -1,4 +1,4 @@
-## select whitepaper use case(s) for project development:
+## select whitepaper use case(s) reference for project developments:
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - algorithm reference(s):
