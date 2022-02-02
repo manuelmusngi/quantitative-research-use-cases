@@ -12,6 +12,12 @@
     - [Multi-Layer Perceptron (MLP)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
     - [Proximal Policy Optimization (PPO)](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
+    
+
+- [Anticipating cryptocurrency prices using machine learning](https://arxiv.org/abs/1805.08550)
+  - algorithm reference(s):
+    - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
+    - [XGBoost](https://xgboost.readthedocs.io/en/stable/install.html)
 
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
@@ -67,7 +73,4 @@
       - [Gaussian Processes](https://scikit-learn.org/stable/modules/gaussian_process.html)
       - [Root Mean Square Error(RMSE)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) 
 
-- [ Machine learning-aided modeling of fixed income instruments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C15&as_vis=1&q=machine+learning+aided+modeling+of+fixed+income+instruments&btnG=)
-  - algorithm reference(s):
-     - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
-     - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
+
