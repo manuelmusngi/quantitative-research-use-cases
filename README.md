@@ -38,6 +38,10 @@
     - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
     - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
+- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
+  - algorithm reference(s):
+    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
+
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Modeling and Code development reference(s):
     - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
@@ -56,10 +60,6 @@
   - algorithm reference(s):
     - [Support Vector Regression (SVR)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html#sklearn.svm.SVR)
     - [Kernel Density Estimation (KDE)](https://scikit-learn.org/stable/auto_examples/neighbors/plot_digits_kde_sampling.html?highlight=kernel%20density%20estimation)
-
-- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
-  - algorithm reference(s):
-    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
 - [Using Machine Learning to Predict Realized Variance](https://arxiv.org/abs/1909.10035)
   - algorithm reference(s):
