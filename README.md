@@ -1,10 +1,5 @@
 ## select whitepaper use case(s) for project developments:
 
-
-- [Detecting DeFi Securities Violations from Token Smart Contract Code with Random Forest Classification](https://arxiv.org/abs/2112.02731)
-  - algorithm reference(s):
-    - [Random Forest Classification](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - algorithm reference(s):
     - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
@@ -18,7 +13,6 @@
     - [Proximal Policy Optimization (PPO)](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
     
-
 - [Anticipating cryptocurrency prices using machine learning](https://arxiv.org/abs/1805.08550)
   - algorithm reference(s):
     - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
