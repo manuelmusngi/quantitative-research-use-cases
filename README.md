@@ -1,5 +1,10 @@
 ## select whitepaper use case(s) for project developments:
 
+
+- [Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price](https://arxiv.org/abs/2202.08967)
+  - algorithm reference(s):
+    - [Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html) 
+
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - algorithm reference(s):
     - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
