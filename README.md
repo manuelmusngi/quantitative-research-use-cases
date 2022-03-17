@@ -10,6 +10,11 @@
     - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
     - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
+- [Anticipating cryptocurrency prices using machine learning](https://arxiv.org/abs/1805.08550)
+  - algorithm reference(s):
+    - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
+    - [XGBoost](https://xgboost.readthedocs.io/en/stable/install.html)
+
 - [Bitcoin Transaction Strategy Construction Based on Deep Reinforcement Learning](https://arxiv.org/abs/2109.14789)
   - algorithm reference(s):
     - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
@@ -17,11 +22,6 @@
     - [Multi-Layer Perceptron (MLP)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
     - [Proximal Policy Optimization (PPO)](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
-    
-- [Anticipating cryptocurrency prices using machine learning](https://arxiv.org/abs/1805.08550)
-  - algorithm reference(s):
-    - [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html)
-    - [XGBoost](https://xgboost.readthedocs.io/en/stable/install.html)
 
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
