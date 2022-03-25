@@ -1,5 +1,6 @@
 ## select whitepaper use case(s) for project developments:
 
+- [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
 
 - [Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price](https://arxiv.org/abs/2202.08967)
   - algorithm reference(s):
