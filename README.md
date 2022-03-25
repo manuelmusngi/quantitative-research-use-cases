@@ -2,6 +2,8 @@
 
 - [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
 
+- [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
+
 - [Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price](https://arxiv.org/abs/2202.08967)
   - algorithm reference(s):
     - [Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html) 
