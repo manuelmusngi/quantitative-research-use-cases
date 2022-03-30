@@ -4,6 +4,8 @@
 
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
+- [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
+
 - [Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price](https://arxiv.org/abs/2202.08967)
   - algorithm reference(s):
     - [Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html) 
