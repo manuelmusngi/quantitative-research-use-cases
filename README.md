@@ -4,6 +4,8 @@
 
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
+- [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
+
 - [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
 
 - [Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price](https://arxiv.org/abs/2202.08967)
