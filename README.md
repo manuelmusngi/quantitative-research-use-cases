@@ -1,6 +1,7 @@
 ## select whitepaper use case(s) for project developments:
 
 - [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
+       - [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn) 
 
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
