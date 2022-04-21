@@ -4,6 +4,13 @@
   - algorithm reference(s):
        - [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn) 
 
+- [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
+  - algorithm reference(s): 
+    - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+    - [Gradient Boosted Regression](https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html)
+    - [Feed-Forward Neural Network](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
+    - [Long Short Term Memory Neural Network](https://keras.io/api/layers/recurrent_layers/lstm/)
+
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
 - [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
@@ -33,13 +40,6 @@
     - [Multi-Layer Perceptron (MLP)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
     - [Proximal Policy Optimization (PPO)](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
-
-- [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
-  - algorithm reference(s): 
-    - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
-    - [Gradient Boosted Regression](https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html)
-    - [Feed-Forward Neural Network](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
-    - [Long Short Term Memory Neural Network](https://keras.io/api/layers/recurrent_layers/lstm/)
     
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - algorithm reference(s):
