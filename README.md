@@ -11,6 +11,12 @@
     - [Feed-Forward Neural Network](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
     - [Long Short Term Memory Neural Network](https://keras.io/api/layers/recurrent_layers/lstm/)
 
+- [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
+  - algorithm reference(s):
+    - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
+    - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+    - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
+
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
 - [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
@@ -59,12 +65,6 @@
     - [Logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
     - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
     - [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn)
-
-- [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
-  - algorithm reference(s):
-    - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
-    - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
-    - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
     
 - [Data driven value-at-risk forecasting using a SVR-GARCH-KDE hybrid](https://arxiv.org/abs/2009.06910) 
   - algorithm reference(s):
