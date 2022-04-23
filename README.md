@@ -1,5 +1,7 @@
 ## select whitepaper use case(s) for project developments:
 
+- [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
+
 - [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
   - algorithm reference(s):
        - [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn) 
