@@ -2,10 +2,6 @@
 
 - [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
 
-- [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
-  - algorithm reference(s):
-       - [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn) 
-
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
     - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
@@ -23,6 +19,9 @@
 
 - [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
 
+- [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
+  - algorithm reference(s):
+       - [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn) 
 - [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
 
 - [Towards Private On-Chain Algorithmic Trading](https://arxiv.org/abs/2109.11270)
