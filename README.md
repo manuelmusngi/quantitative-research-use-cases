@@ -15,6 +15,17 @@
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
 
+- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
+  - algorithm reference(s):
+    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
+
+- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+  - algorithm reference(s):
+    - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [OLS Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#)
+    - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+    - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
+
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
 - [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)
@@ -49,18 +60,7 @@
     - [Multi-Layer Perceptron (MLP)](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
     - [Proximal Policy Optimization (PPO)](https://keras.io/examples/rl/ppo_cartpole/)
     - [Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html) 
-    
-- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
-  - algorithm reference(s):
-    - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
-    - [OLS Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#)
-    - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
-    - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
-
-- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
-  - algorithm reference(s):
-    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
-
+   
 - [Integration of Macroeconomic Data into Multi-Asset Allocation with Machine Learning Techniques](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586040)
   - Modeling and Code development reference(s):
     - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html)  
