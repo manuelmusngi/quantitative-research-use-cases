@@ -25,6 +25,8 @@
 
 - [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
 
+- [Towards Private On-Chain Algorithmic Trading](https://arxiv.org/abs/2109.11270)
+
 - [Ensemble and Multimodal Approach for Forecasting Cryptocurrency Price](https://arxiv.org/abs/2202.08967)
   - algorithm reference(s):
     - [Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html) 
