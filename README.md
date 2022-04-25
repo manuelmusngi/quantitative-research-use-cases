@@ -1,4 +1,4 @@
-## select whitepaper use case(s) for project developments:
+### select whitepaper use case(s) as reference for project developments:
 
 - [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
 
