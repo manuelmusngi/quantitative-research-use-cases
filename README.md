@@ -6,6 +6,11 @@
   - algorithm reference(s):
     - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
+- [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
+  - algorithm reference(s):
+      - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
+      - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
+
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
     - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
@@ -83,10 +88,6 @@
       - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html) 
 
-- [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
-  - algorithm reference(s):
-      - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
-      - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
 
 - [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
   - algorithm reference(s):
