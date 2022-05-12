@@ -1,6 +1,10 @@
 ### select whitepaper use case(s) as reference for project developments:
 
-- [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678) 
+- [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
+  - algorithm reference(s):
+    - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+    - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
+    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - algorithm reference(s):
