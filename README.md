@@ -2,6 +2,10 @@
 
 - [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678) 
 
+- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
+  - algorithm reference(s):
+    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
+
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
     - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
@@ -16,10 +20,6 @@
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
 
 - [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
-
-- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
-  - algorithm reference(s):
-    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - algorithm reference(s):
