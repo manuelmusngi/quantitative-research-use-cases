@@ -1,10 +1,5 @@
 ### select whitepaper use case(s) as reference for project developments:
 
-- [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
-  - algorithm reference(s):
-    - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
-    - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
-    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - algorithm reference(s):
@@ -14,6 +9,13 @@
   - algorithm reference(s):
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
       - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
+
+- [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
+  - algorithm reference(s):
+    - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+    - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
+    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
+
 
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
