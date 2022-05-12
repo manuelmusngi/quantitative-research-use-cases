@@ -1,11 +1,10 @@
 ### select whitepaper use case(s) as reference for project developments:
 
-- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
+- [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
   - algorithm reference(s):
-    - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
-    - [OLS Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#)
-    - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
-    - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
+    - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+    - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
+    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - algorithm reference(s):
@@ -14,13 +13,14 @@
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   - algorithm reference(s):
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
-      - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/) 
-
-- [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
+      - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/)
+     
+- [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - algorithm reference(s):
-    - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
-    - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
-    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
+    - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
+    - [OLS Scikit-Learn](https://scikit-learn.org/stable/modules/linear_model.html#)
+    - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+    - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - algorithm reference(s):
