@@ -22,6 +22,10 @@
     - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
     - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
 
+- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
+  - algorithm reference(s):
+    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
+    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
@@ -45,6 +49,7 @@
 - [Time Series Analysis of Blockchain-Based Cryptocurrency Price Changes](https://arxiv.org/abs/2202.13874)
   - algorithm reference(s):
        - [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn) 
+       
 - [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
 
 - [Towards Private On-Chain Algorithmic Trading](https://arxiv.org/abs/2109.11270)
@@ -56,11 +61,6 @@
 - [Quantum computational finance: Monte Carlo pricing of financial derivatives](https://arxiv.org/abs/1805.00109)
 
 - [Optuna: A Next-generation Hyperparameter Optimization Framework](https://arxiv.org/abs/1907.10902)
-
-- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
-  - algorithm reference(s):
-    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
-    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [Anticipating cryptocurrency prices using machine learning](https://arxiv.org/abs/1805.08550)
   - algorithm reference(s):
@@ -92,7 +92,6 @@
   - algorithm reference(s):
       - [Feed Forward Neural Network (FNN)](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
       - [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html) 
-
 
 - [A Statistical Machine Learning Approach to Yield Curve Forecasting](https://arxiv.org/abs/1703.01536)
   - algorithm reference(s):
