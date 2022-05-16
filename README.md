@@ -4,7 +4,12 @@
   - algorithm reference(s):
     - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
     - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
-    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)   
+    - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
+
+- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
+  - algorithm reference(s):
+    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
+    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html)   
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - algorithm reference(s):
@@ -22,10 +27,6 @@
     - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
     - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
-- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
-  - algorithm reference(s):
-    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
-    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html) 
 
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
