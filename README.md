@@ -1,15 +1,15 @@
 ### select whitepaper use case(s) as reference for project developments:
 
+- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
+  - algorithm reference(s):
+    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
+    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html)   
+
 - [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
   - algorithm reference(s):
     - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
     - [Quasi-Diagonalization](https://scikit-learn.org/stable/modules/covariance.html)
     - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
-
-- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
-  - algorithm reference(s):
-    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
-    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html)   
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - algorithm reference(s):
