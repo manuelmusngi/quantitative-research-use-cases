@@ -19,7 +19,9 @@
   - algorithm reference(s):
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
       - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/)
-     
+
+- [Deep Signature models for Financial Equity Time Series prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4107756)
+
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - algorithm reference(s):
     - [OLS Statsmodels](https://www.statsmodels.org/stable/examples/notebooks/generated/ols.html#OLS-estimation)
