@@ -3,6 +3,8 @@
 - [Hedging option books using neural-SDE market models](https://arxiv.org/abs/2205.15991)
 
 - [Arbitrage-free neural-SDE market models](https://arxiv.org/pdf/2105.11053.pdf) 
+
+- [A neural network-based framework for financial model calibration](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7)
   
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - algorithm reference(s):
