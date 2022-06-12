@@ -1,5 +1,8 @@
 ### select whitepaper use case(s) as reference for project developments:
 
+- [Hedging option books using neural-SDE market models](https://arxiv.org/abs/2205.15991) 
+  - algorithm reference(s):
+  
 - [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
   - algorithm reference(s):
     - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
