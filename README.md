@@ -5,11 +5,6 @@
 - [Arbitrage-free neural-SDE market models](https://arxiv.org/pdf/2105.11053.pdf) 
 
 - [A neural network-based framework for financial model calibration](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7)
-  
-- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
-  - algorithm reference(s):
-    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
-    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html)   
 
 - [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
   - algorithm reference(s):
@@ -37,13 +32,17 @@
     - [Mean Squared Error](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
     - [Coefficient of Determination (R2)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html)
 
-
 - [The Shape of Performance Curve in Financial Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3986154)
   - algorithm reference(s): 
     - [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
     - [Gradient Boosted Regression](https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html)
     - [Feed-Forward Neural Network](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)
     - [Long Short Term Memory Neural Network](https://keras.io/api/layers/recurrent_layers/lstm/)
+
+- [Periodicity in Cryptocurrency Volatility and Liquidity](https://arxiv.org/abs/2109.12142)
+  - algorithm reference(s):
+    - [GARCH models](https://arch.readthedocs.io/en/latest/univariate/volatility.html#volatility-processes)
+    - [eGARCH](https://pyflux.readthedocs.io/en/latest/egarch.html)   
 
 - [Clustering Commodity Markets in Space and Time: Clarifying Returns, Volatility, and Trading Regimes Through Unsupervised Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791138) 
   - algorithm reference(s):
