@@ -2,9 +2,6 @@
 
 - [Hedging option books using neural-SDE market models](https://arxiv.org/abs/2205.15991)
 
-- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
-  - algorithm reference(s):
-    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
 - [Arbitrage-free neural-SDE market models](https://arxiv.org/pdf/2105.11053.pdf) 
 
@@ -24,6 +21,10 @@
     - [Recursive-Bisection](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html)
 
 - [Deep Signature models for Financial Equity Time Series prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4107756)
+
+- [Implied volatility surface predictability: the case of commodity markets](https://arxiv.org/abs/1909.11009) 
+  - algorithm reference(s):
+    - [Nelson-Siegel-Svensson (NSS)](https://pypi.org/project/nelson-siegel-svensson/) 
 
 - [Predictive Regressions: A Machine Learning Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709412)
   - algorithm reference(s):
