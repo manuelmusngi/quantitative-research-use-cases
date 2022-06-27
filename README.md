@@ -1,4 +1,4 @@
-### select whitepaper use case(s) as reference for project developments:
+### select whitepaper use case(s) as reference for research developments:
 
 - [Hedging option books using neural-SDE market models](https://arxiv.org/abs/2205.15991)
 
