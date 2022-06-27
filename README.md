@@ -2,10 +2,11 @@
 
 - [Hedging option books using neural-SDE market models](https://arxiv.org/abs/2205.15991)
 
-
 - [Arbitrage-free neural-SDE market models](https://arxiv.org/pdf/2105.11053.pdf) 
 
 - [A neural network-based framework for financial model calibration](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7)
+
+- [Quantum computational finance: Monte Carlo pricing of financial derivatives](https://arxiv.org/abs/1805.00109)
 
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   - algorithm reference(s):
