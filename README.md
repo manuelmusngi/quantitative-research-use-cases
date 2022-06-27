@@ -8,6 +8,8 @@
 
 - [Quantum computational finance: Monte Carlo pricing of financial derivatives](https://arxiv.org/abs/1805.00109)
 
+- [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
+
 - [Forecasting Implied Volatility Smile Surface via Deep Learning and Attention Mechanism](https://arxiv.org/abs/1912.11059)
   - algorithm reference(s):
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
@@ -49,8 +51,6 @@
     - [Multidimensional Scaling (MDS)](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html)
     - [t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
     - [K-means Clustering](https://scikit-learn.org/stable/modules/clustering.html#:~:text=2.3.1.%20Overview%20of%20clustering%20methods%20%C2%B6%20%20,nearest-neighbor%20gr%20...%20%206%20more%20rows%20)
-
-- [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
 
 - [Cryptocurrency Price Prediction and Trading Strategies Using Support Vector Machines](https://arxiv.org/abs/1911.11819)
 
