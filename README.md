@@ -6,6 +6,8 @@
 
 - [A neural network-based framework for financial model calibration](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7)
 
+- [Versatile HAR model for realized volatility: A least square model averaging perspective](https://www.sciencedirect.com/science/article/pii/S2096232019300046)
+
 - [Quantum computational finance: Monte Carlo pricing of financial derivatives](https://arxiv.org/abs/1805.00109)
 
 - [Volatility forecasting with machine learning and intraday commonality](https://arxiv.org/abs/2202.08962)
