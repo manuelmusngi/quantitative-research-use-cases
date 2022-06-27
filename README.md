@@ -13,8 +13,6 @@
       - [LSTM](https://keras.io/api/layers/recurrent_layers/lstm/)
       - [Attention Mechanism](https://keras.io/api/layers/attention_layers/attention/)
 
-- [Quantum computational finance: Monte Carlo pricing of financial derivatives](https://arxiv.org/abs/1805.00109)
-
 - [Building Diversified Portfolios that Outperform Out-of-Sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678)
   - algorithm reference(s):
     - [Hierchical-Clustering](https://scikit-learn.org/stable/modules/clustering.html)
