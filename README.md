@@ -1,5 +1,7 @@
 ### select whitepaper use case(s) as reference for research developments:
 
+- [Gamma and Vega Hedging Using Deep Distributional Reinforcement Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4106814)
+
 - [Hedging option books using neural-SDE market models](https://arxiv.org/abs/2205.15991)
 
 - [Arbitrage-free neural-SDE market models](https://arxiv.org/pdf/2105.11053.pdf) 
